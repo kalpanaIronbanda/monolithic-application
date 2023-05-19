@@ -55,7 +55,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/monolithic-application.git
+git clone https://github.com/kalpanaIronbanda/monolithic-application.git
 1.Install the required dependencies for each backend application and the frontend application. Consult the documentation of each application for detailed installation instructions.
 
 2.Configure the backend applications. Set up configuration files or environment variables to specify database connections, API keys, and other settings. Refer to the documentation of each backend application for guidance on configuring them.
